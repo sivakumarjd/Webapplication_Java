@@ -13,7 +13,7 @@ WELCOME
     Enter your name: <input type="text" name="yourName" size="20">
     <input type="submit" value="Call Servlet" />
 </form>
-<br></br><br></br>
+<br></br>
 
 </body>
 </html>
